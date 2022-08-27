@@ -28,3 +28,59 @@ h1 {
     background: url('hr-img.png') repeat;
 
 }
+
+#choc-header{
+    font-size: 40px;
+    
+}  
+
+#dec{
+    color: rgb(165, 157, 157);
+        font-size: small;
+        margin-top: -3.3em;
+
+}
+
+#printer{
+    float: right;
+    border: 20px;
+    margin: auto;
+    
+
+}
+
+#pizza{
+    margin-top: 2vw;
+    width: 100%;
+}
+
+.instrction{
+    color: grey;
+    font-size: large;
+    line-height: 2vw;
+    margin-top: 2vw;
+    text-indent: 3%;
+}
+
+.list-img{
+    margin-top: 3.5vw;
+    width: 100%;
+}
+
+.container{
+    color: gray;
+    display: inherit;
+    font-family: cursive;
+    line-height: 3.5vw;
+    margin-top: -30vw;
+    text-indent: 2%;
+}
+
+.col{
+    display: inline-block;
+    width: 40%;
+}
+.one{
+    margin-left: 10%;
+}
+
