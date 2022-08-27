@@ -23,3 +23,8 @@ h1 {
 
 }
 
+#pic {
+    height: 10px;
+    background: url('hr-img.png') repeat;
+
+}
