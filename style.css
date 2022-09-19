@@ -1,0 +1,115 @@
+#socialmedia {
+  float: right;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.share {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  font-size: 25px;
+  font-family: cursive;
+}
+
+#best {
+  color: rgb(165, 157, 157);
+  font-size: small;
+  margin-left: 3em;
+  margin-top: -2em;
+}
+
+#footer-bio {
+    margin-top: 25px;
+    border-top: thick;
+    border-top-style: dashed;
+    border-top-color: gray;
+    border-width: 3px;
+}
+  
+#author-bio {
+    display: inline-block;
+    margin-right: 73px;
+}
+
+#pic {
+  height: 20px;
+  background: url('hr-img.png') repeat;
+}
+
+.two-column-list{
+  background-image: url("img/list-bg.png");
+  list-style: none;
+ }
+
+#list-left, #list-right {
+  list-style: none;
+  display: inline-block;
+}
+
+#list-left {
+  margin-left: 55px;
+}
+
+#list-right {
+  margin-left: 170;
+}
+
+#cbox1, #cbox2, #cbox3, #cbox4, #cbox5, #cbox6, #cbox7, #cbox8, #cbox9, #cbox10, #cbox11, #cbox12 {
+  color: black;
+  text-decoration: line-through;
+}
+
+input[type=checkbox]:checked + label {
+  color: black;
+  text-decoration: line-through;
+}
+  
+#article-footer img {
+    display: inline-block;
+    margin-top: 25px;
+}
+  
+#button1 {
+    font-family: "Oswald";
+    background: orange;
+    color: white;
+    padding: 9px 36px;
+    display: inline-block;
+}
+
+#ending-footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: thick;
+    border-top-style: solid;
+    border-top-color: gray;
+    border-width: 1px;
+}
+  
+#ending-footer p {
+    text-align: center;
+    margin-left: 280px;
+}
+  
+#ending-footer img {
+    margin-top: -18px;
+    margin-left: 397px;
+}
+
+#bio-pic {
+    float: left;
+}
+
+#button1 {
+    float: right;
+}
+
+#small-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
